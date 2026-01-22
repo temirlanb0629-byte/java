@@ -1,0 +1,2 @@
+public class fqrs37 {
+}
