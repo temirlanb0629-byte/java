@@ -1,0 +1,2 @@
+public class tap2 {
+}
